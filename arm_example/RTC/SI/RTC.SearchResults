@@ -1,0 +1,4 @@
+---- RTCCON Matches (3 in 2 files) ----
+Exynos_4412.h (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\5.rtc\common\include):#define		RTCCON			__REG(0X10070040)
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\5.rtc):	RTCCON = 0x1;	// Enables RTC control
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\5.rtc):	RTCCON = 0x0;	// Disables RTC control

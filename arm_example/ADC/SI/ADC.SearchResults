@@ -1,0 +1,6 @@
+---- mydelay_ms Matches (5 in 1 files) ----
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\6.adc): * @brief		mydelay_ms program body
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\6.adc):void mydelay_ms(int time)
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\6.adc):			mydelay_ms(100);
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\6.adc):			mydelay_ms(500);
+Main.c (d:\chb\arm_stucture\arm-exyno4412(教师用书)\实验代码\6.adc):			mydelay_ms(500);
