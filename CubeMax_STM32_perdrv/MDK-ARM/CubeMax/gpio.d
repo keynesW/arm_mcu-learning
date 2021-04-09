@@ -1,0 +1,37 @@
+cubemax\gpio.o: ../Src/gpio.c
+cubemax\gpio.o: ../Inc/gpio.h
+cubemax\gpio.o: ../Inc/main.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h
+cubemax\gpio.o: ../Inc/stm32f0xx_hal_conf.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h
+cubemax\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
+cubemax\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
+cubemax\gpio.o: ../Drivers/CMSIS/Include/core_cm0.h
+cubemax\gpio.o: D:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+cubemax\gpio.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+cubemax\gpio.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+cubemax\gpio.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+cubemax\gpio.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h
+cubemax\gpio.o: D:\Program Files\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_cortex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_adc.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_adc_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim_ex.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h
+cubemax\gpio.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h
