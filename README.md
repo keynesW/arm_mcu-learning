@@ -1,3 +1,2 @@
 # hello-world
-there is  nothing 
-eidt test
+code used as program manual for reference.
